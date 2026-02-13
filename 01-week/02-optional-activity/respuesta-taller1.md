@@ -1,53 +1,92 @@
 # Actividad Práctica – Estructuras de Datos
 
+## Estudiante: Melanie Lizeth Sánchez Polanía 
 
-## 🌐 Aplicación Analizada
-### Instagram y Tik ToK
+## Aplicaciones seleccionadas:
+- Instagram
+- TikTok
+
 ![Instagram-Tik tok](https://www.periodicocubano.com/wp-content/uploads/2025/01/Instagram-lanza-funciones-similares-a-TikTok-para-hacerle-la-competencia-1200x675.jpg)
 
-## Tipos de Datos que Manejan
+## 📸 INSTAGRAM
 
-### 👤 1. Usuarios
-Cada usuario es un **dato compuesto**, ya que agrupa múltiples atributos:
+### 1️⃣ Tipo de dato: Usuarios
+**Datos que maneja:**
+- Nombre de usuario
+- Correo electrónico
+- Foto de perfil
+- Biografía
+- Seguidores y seguidos
 
-- Nombre de usuario  
-- Correo electrónico  
-- Contraseña  
-- Foto de perfil  
-- Seguidores  
-- Seguidos  
-- Biografía  
+**Organización:**
+Podría organizarse mediante una **estructura tipo objeto o registro**, donde cada usuario es una entidad con múltiples atributos.
 
-### 🎥 2. Publicaciones
-Cada publicación contiene:
+Ejemplo:
+- Lista de usuarios
+  - Usuario 1
+  - Usuario 2
+  - Usuario 3
 
-- Imagen o video  
-- Descripción  
-- Fecha de publicación  
-- Número de "me gusta"  
-- Comentarios  
-- Usuario que la publicó  
+### 2️⃣ Tipo de dato: Publicaciones
+**Datos que maneja:**
+- Imagen o video
+- Descripción
+- Fecha de publicación
+- Número de likes
+- Comentarios
 
-### 💬 3. Comentarios
-Cada comentario incluye:
+**Organización:**
+Podría organizarse en una **lista enlazada o arreglo dinámico**, donde las publicaciones se ordenan por fecha (más recientes primero).
 
-- Texto del comentario  
-- Usuario que comenta  
-- Fecha  
-- Respuestas asociadas  
+### 3️⃣ Tipo de dato: Comentarios
+**Datos que maneja:**
+- Usuario que comenta
+- Texto del comentario
+- Fecha
+- Respuestas
 
-> Las estructuras de datos permiten organizar grandes volúmenes de información de forma eficiente.
+**Organización:**
+Podrían organizarse en una **estructura tipo árbol**, ya que existen comentarios principales y respuestas dentro de ellos.
 
-### 🔹 Usuarios
-Podrían organizarse mediante **registros u objetos**, almacenados en una lista o base de datos indexada por un identificador único.
+## 🎵 TIKTOK
 
-### 🔹 Publicaciones
-Podrían organizarse en **listas dinámicas asociadas a cada usuario** y mostrarse mediante una estructura ordenada por fecha (contenido más reciente primero).
+### 1️⃣ Tipo de dato: Videos
+**Datos que maneja:**
+- Archivo de video
+- Descripción
+- Música utilizada
+- Número de vistas
+- Likes y compartidos
 
-### 🔹 Comentarios
-Podrían organizarse en **listas enlazadas dentro de cada publicación**.  
-En el caso de respuestas, podría utilizarse una estructura jerárquica tipo **árbol**.
+**Organización:**
+Podrían almacenarse en una **lista ordenada por algoritmo**, dependiendo de intereses del usuario.
 
-Estas permiten almacenar, organizar y recuperar información de manera eficiente, garantizando una experiencia dinámica para el usuario.
+### 2️⃣ Tipo de dato: Interacciones
+**Datos que maneja:**
+- Likes
+- Comentarios
+- Compartidos
+- Tiempo de visualización
 
+**Organización:**
+Podrían organizarse mediante **tablas de registro**, donde cada interacción queda asociada a un usuario y a un video específico.
+
+### 3️⃣ Tipo de dato: Seguidores
+**Datos que maneja:**
+- Lista de personas que siguen al usuario
+- Lista de personas seguidas
+
+**Organización:**
+Podría representarse como un **grafo**, donde cada usuario es un nodo y las conexiones representan las relaciones de seguimiento.
+
+Conclusión
+
+Es importante reconocer que en aplicaciones como Instagram y TikTok ya se utilizan estructuras como:
+
+- Listas
+- Árboles
+- Grafos
+- Registros
+
+Esto demuestra que la organización de datos está presente en situaciones cotidianas y es fundamental para el funcionamiento eficiente de las aplicaciones que usamos diariamente.
 
