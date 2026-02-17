@@ -1,0 +1,91 @@
+# Actividad Práctica – Estructuras de Datos
+
+## Estudiante: Melanie Lizeth Sánchez Polanía 
+
+## Aplicaciones seleccionadas:
+- Instagram
+- TikTok
+
+![Instagram-Tik tok](https://www.periodicocubano.com/wp-content/uploads/2025/01/Instagram-lanza-funciones-similares-a-TikTok-para-hacerle-la-competencia-1200x675.jpg)
+
+## 📸 INSTAGRAM
+
+### 1️⃣ Tipo de dato: Usuarios
+**Datos que maneja:**
+- Nombre de usuario
+- Correo electrónico
+- Foto de perfil
+- Biografía
+- Seguidores y seguidos
+
+**Organización:**
+Podría organizarse mediante una **estructura tipo objeto o registro**, donde cada usuario es una entidad con múltiples atributos.
+
+Ejemplo:
+- Lista de usuarios
+  - Usuario 1
+  - Usuario 2
+  - Usuario 3
+
+### 2️⃣ Tipo de dato: Publicaciones
+**Datos que maneja:**
+- Imagen o video
+- Descripción
+- Fecha de publicación
+- Número de likes
+- Comentarios
+
+**Organización:**
+Podría organizarse en una **lista enlazada o arreglo dinámico**, donde las publicaciones se ordenan por fecha (más recientes primero).
+
+### 3️⃣ Tipo de dato: Comentarios
+**Datos que maneja:**
+- Usuario que comenta
+- Texto del comentario
+- Fecha
+- Respuestas
+
+**Organización:**
+Podrían organizarse en una **estructura tipo árbol**, ya que existen comentarios principales y respuestas dentro de ellos.
+
+## 🎵 TIKTOK
+
+### 1️⃣ Tipo de dato: Videos
+**Datos que maneja:**
+- Archivo de video
+- Descripción
+- Música utilizada
+- Número de vistas
+- Likes y compartidos
+
+**Organización:**
+Podrían almacenarse en una **lista ordenada por algoritmo**, dependiendo de intereses del usuario.
+
+### 2️⃣ Tipo de dato: Interacciones
+**Datos que maneja:**
+- Likes
+- Comentarios
+- Compartidos
+- Tiempo de visualización
+
+**Organización:**
+Podrían organizarse mediante **tablas de registro**, donde cada interacción queda asociada a un usuario y a un video específico.
+
+### 3️⃣ Tipo de dato: Seguidores
+**Datos que maneja:**
+- Lista de personas que siguen al usuario
+- Lista de personas seguidas
+
+**Organización:**
+Podría representarse como un **grafo**, donde cada usuario es un nodo y las conexiones representan las relaciones de seguimiento.
+
+Conclusión
+
+Es importante reconocer que en aplicaciones como Instagram y TikTok ya se utilizan estructuras como:
+
+- Listas
+- Árboles
+- Grafos
+- Registros
+
+Esto demuestra que la organización de datos está presente en situaciones cotidianas y es fundamental para el funcionamiento eficiente de las aplicaciones que usamos diariamente.
