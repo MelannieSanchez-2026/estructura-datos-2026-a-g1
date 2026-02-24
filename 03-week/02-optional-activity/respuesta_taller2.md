@@ -7,7 +7,7 @@
 
 ## 📊 Representación visual de las estructuras
 
-![Representación de Array y Matriz](https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/03-week/Matriz.png)
+![Representación de Array y Matriz](https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/1457577712db5d29ebd2be725f86724c7272d2c7/03-week/02-optional-activity/Matriz.png)
 
 ### 🔹 1. Array unidimensional
 
