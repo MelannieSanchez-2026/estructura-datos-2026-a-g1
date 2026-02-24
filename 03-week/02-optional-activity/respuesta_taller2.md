@@ -3,7 +3,11 @@
 
 ### 👩‍🎓 Estudiante: Melanie Lizeth Sánchez Polanía 
 
-## 2. Actividad
+## ✨ 2. Actividad
+
+## 📊 Representación visual de las estructuras
+
+![Representación de Array y Matriz](https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/03-week/Matriz.png)
 
 ### 🔹 1. Array unidimensional
 
