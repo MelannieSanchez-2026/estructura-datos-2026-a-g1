@@ -119,3 +119,30 @@ Los comentarios principales aparecen listados y cada uno puede contener nodos se
 - Eliminar comentario
 - Recorrer la estructura jerárquica
 - Dar like a comentario
+
+### 📌 Descripción de la evidencia – Lista de Seguidores
+
+En la captura se observa la sección de seguidores de un perfil.
+
+
+
+Visualmente se presenta como una lista vertical de usuarios, donde cada elemento contiene:
+- Foto de perfil
+- Nombre de usuario
+- Botón de seguimiento
+
+Desde el punto de vista conceptual, esta estructura puede modelarse como:
+
+1. Una **lista**, para mostrar los seguidores.
+2. Un **grafo dirigido**, donde:
+   - Cada usuario es un nodo.
+   - Cada relación de seguimiento es una arista.
+
+**Orden:**  
+Generalmente se muestran en orden cronológico o según relevancia.
+
+**Operaciones identificables:**
+- Agregar seguidor
+- Eliminar seguidor
+- Buscar usuario
+- Recorrer la lista
