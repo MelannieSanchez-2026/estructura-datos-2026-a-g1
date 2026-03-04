@@ -6,7 +6,7 @@
 - Instagram
 - TikTok
 
-![Instagram-Tik tok](https://www.periodicocubano.com/wp-content/uploads/2025/01/Instagram-lanza-funciones-similares-a-TikTok-para-hacerle-la-competencia-1200x675.jpg)
+<img src="https://www.periodicocubano.com/wp-content/uploads/2025/01/Instagram-lanza-funciones-similares-a-TikTok-para-hacerle-la-competencia-1200x675.jpg" width="200">
 
 ## 📸 INSTAGRAM
 
