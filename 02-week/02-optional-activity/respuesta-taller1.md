@@ -124,7 +124,7 @@ Los comentarios principales aparecen listados y cada uno puede contener nodos se
 
 En la captura se observa la sección de seguidores de un perfil.
 
-
+<img src="https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/02-week/02-optional-activity/imagen1.jpeg" width="200">
 
 Visualmente se presenta como una lista vertical de usuarios, donde cada elemento contiene:
 - Foto de perfil
