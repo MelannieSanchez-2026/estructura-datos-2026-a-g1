@@ -89,3 +89,33 @@ Es importante reconocer que en aplicaciones como Instagram y TikTok ya se utiliz
 - Registros
 
 Esto demuestra que la organización de datos está presente en situaciones cotidianas y es fundamental para el funcionamiento eficiente de las aplicaciones que usamos diariamente.
+
+### 📌 Descripción de la evidencia – Comentarios y Respuestas
+
+En la captura se observa una publicación específica con su sección de comentarios.
+
+![Instagram-Tik tok](
+
+Desde el punto de vista estructural, los comentarios pueden representarse como una **estructura tipo árbol**, ya que existe una jerarquía:
+
+- Comentario principal
+  - Respuesta 1
+  - Respuesta 2
+    - Subrespuesta (si aplica)
+
+Cada comentario almacena:
+- Usuario
+- Texto
+- Fecha
+- Número de likes
+- Respuestas asociadas
+
+**Orden:**  
+Los comentarios principales aparecen listados y cada uno puede contener nodos secundarios (respuestas).
+
+**Operaciones identificables:**
+- Insertar comentario
+- Insertar respuesta
+- Eliminar comentario
+- Recorrer la estructura jerárquica
+- Dar like a comentario
