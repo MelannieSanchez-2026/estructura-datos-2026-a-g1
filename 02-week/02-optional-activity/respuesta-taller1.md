@@ -94,7 +94,7 @@ Esto demuestra que la organización de datos está presente en situaciones cotid
 
 En la captura se observa una publicación específica con su sección de comentarios.
 
-![Instagram-Tik tok](https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/02-week/02-optional-activity/imagen.jpeg)
+<img src="(https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/02-week/02-optional-activity/imagen.jpeg)" width="200">
 
 Desde el punto de vista estructural, los comentarios pueden representarse como una **estructura tipo árbol**, ya que existe una jerarquía:
 
