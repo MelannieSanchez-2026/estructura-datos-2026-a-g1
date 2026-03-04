@@ -1,4 +1,4 @@
-# Actividad Práctica – Semana 2  
+# 📘 Actividad Práctica 
 ## Tipos de datos y arreglos unidimensionales  
 
 ## Descripción de la actividad
@@ -142,6 +142,8 @@ public class NotasEstudiante {
 }
 ```
 La captura demuestra que el programa funciona correctamente y cumple con los requerimientos planteados.
+
+<img src="https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/04-week/02-optional-activity/evidencia.png" width="800">
 
 ## Conclusión
 
