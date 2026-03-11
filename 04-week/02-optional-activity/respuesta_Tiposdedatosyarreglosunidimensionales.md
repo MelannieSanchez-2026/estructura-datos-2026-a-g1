@@ -1,6 +1,8 @@
 # 📘 Actividad Práctica 
 ## Tipos de datos y arreglos unidimensionales  
 
+### Estudiante: Melannie Lizeth Sanchez Polania
+
 ## Descripción de la actividad
 
 En esta actividad se desarrolló un programa orientado al uso de arreglos unidimensionales para registrar y analizar las notas de un estudiante.
