@@ -147,40 +147,8 @@ public class VentasSemana {
     }
 }
 ```
-# 🧾 Ejemplo de ejecución
-
-Si el usuario ingresa:
-
-120
-90
-150
-80
-200
-130
-60
-
-El programa mostrará:
-
-VENTAS DE LA SEMANA
-
-Lunes: 120
-Martes: 90
-Miércoles: 150
-Jueves: 80
-Viernes: 200
-Sábado: 130
-Domingo: 60
-
-RESULTADOS
-
-Venta total: 830
-Promedio de ventas: 118.57
-Venta más alta: 200
-Venta más baja: 60
-Días con ventas mayores a 100: 4
-
-### Evidencia visual
+## 🧾 Evidencia visual
 
 Captura de la ejecución del programa en consola:
 
-<img src="https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/04-week/02-optional-activity/evidencia.png" width="800">
+<img src="https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/05-week/02-optional-activity/EvidenciaCg.png" width="800">
