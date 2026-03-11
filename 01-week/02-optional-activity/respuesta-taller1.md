@@ -6,7 +6,7 @@
 - Instagram
 - TikTok
 
-![Instagram-Tik tok](https://www.periodicocubano.com/wp-content/uploads/2025/01/Instagram-lanza-funciones-similares-a-TikTok-para-hacerle-la-competencia-1200x675.jpg)
+<img src="https://www.periodicocubano.com/wp-content/uploads/2025/01/Instagram-lanza-funciones-similares-a-TikTok-para-hacerle-la-competencia-1200x675.jpg" width="550">
 
 ## 📸 INSTAGRAM
 
@@ -89,4 +89,61 @@ Es importante reconocer que en aplicaciones como Instagram y TikTok ya se utiliz
 - Registros
 
 Esto demuestra que la organización de datos está presente en situaciones cotidianas y es fundamental para el funcionamiento eficiente de las aplicaciones que usamos diariamente.
+
+### 📌 Descripción de la evidencia – Comentarios y Respuestas
+
+En la captura se observa una publicación específica con su sección de comentarios.
+
+<img src="https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/02-week/02-optional-activity/imagen.jpeg" width="200">
+
+Desde el punto de vista estructural, los comentarios pueden representarse como una **estructura tipo árbol**, ya que existe una jerarquía:
+
+- Comentario principal
+  - Respuesta 1
+  - Respuesta 2
+    - Subrespuesta (si aplica)
+
+Cada comentario almacena:
+- Usuario
+- Texto
+- Fecha
+- Número de likes
+- Respuestas asociadas
+
+**Orden:**  
+Los comentarios principales aparecen listados y cada uno puede contener nodos secundarios (respuestas).
+
+**Operaciones identificables:**
+- Insertar comentario
+- Insertar respuesta
+- Eliminar comentario
+- Recorrer la estructura jerárquica
+- Dar like a comentario
+
+### 📌 Descripción de la evidencia – Lista de Seguidores
+
+En la captura se observa la sección de seguidores de un perfil.
+
+<img src="https://github.com/MelannieSanchez-2026/estructura-datos-2026-a-g1/blob/main/02-week/02-optional-activity/imagen1.jpeg" width="200">
+
+Visualmente se presenta como una lista vertical de usuarios, donde cada elemento contiene:
+- Foto de perfil
+- Nombre de usuario
+- Botón de seguimiento
+
+Desde el punto de vista conceptual, esta estructura puede modelarse como:
+
+1. Una **lista**, para mostrar los seguidores.
+2. Un **grafo dirigido**, donde:
+   - Cada usuario es un nodo.
+   - Cada relación de seguimiento es una arista.
+
+**Orden:**  
+Generalmente se muestran en orden cronológico o según relevancia.
+
+**Operaciones identificables:**
+- Agregar seguidor
+- Eliminar seguidor
+- Buscar usuario
+- Recorrer la lista
 
